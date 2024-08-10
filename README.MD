@@ -4,6 +4,8 @@
 
 The `Codex-MechanicRequest` script is designed for FiveM servers using the ESX framework. This script enables players to request vehicle repairs through an in-game command. Mechanics who are online and in valid mechanic vehicles will receive notifications and map markers indicating the repair requests.
 
+![Codex-MechanicRequest](https://i.imgur.com/Oa7k8hI.png)
+
 **Author:** CustomCodex
 
 ## Features
