@@ -8,6 +8,8 @@ The `Codex-MechanicRequest` script is designed for FiveM servers using the ESX f
 
 **Author:** CustomCodex
 
+![Watch video](https://youtu.be/H-AC7FVyRyM)
+
 ## Features
 
 - **Request Repairs**: Players can request vehicle repairs using the `/114 [message]` command.
