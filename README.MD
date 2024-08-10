@@ -8,7 +8,7 @@ The `Codex-MechanicRequest` script is designed for FiveM servers using the ESX f
 
 **Author:** CustomCodex
 
-[Watch video](https://youtu.be/H-AC7FVyRyM)
+[Watch The Mechanic Request video](https://youtu.be/H-AC7FVyRyM)
 
 ## Features
 
